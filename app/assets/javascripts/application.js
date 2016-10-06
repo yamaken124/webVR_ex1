@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require three.min.js
+//= require_tree ./lib/
+//= require app.js
